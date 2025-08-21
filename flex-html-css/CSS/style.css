@@ -1,0 +1,51 @@
+*{
+    margin: auto;
+    justify-content: space-around;
+}
+.bird{
+   display: flex;
+   
+}
+.bird_image{
+    margin-top: 70px;
+    margin-right: 10px;
+}
+.bird_details{
+    margin-top:100px;
+    margin-right: 100px;
+
+}
+.bird_video{
+    margin-top: 100px;
+    
+    margin-right: 10px;
+    
+}
+.bird_image audio{
+    margin-top:10px;
+    margin-left:10px;
+}
+
+
+.animal{
+    display: flex;
+    
+ }
+ .panda_image{
+     width: 5px;
+     height: 10px;
+     margin-left: 10px;
+ }
+ .panda_details{
+     margin-top:100px;
+     margin-right: 10px;
+     
+ }
+ .panda_video{
+   margin-top: 100px;
+ }
+       
+ .panda_image audio{
+     margin-top:10px;
+     margin-left:10px;
+ }
